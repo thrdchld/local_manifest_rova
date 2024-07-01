@@ -6,15 +6,13 @@
             clone-depth="1" /> 
  
  <!--Tree -->
- <project path="device/xiaomi/rova" name="thrdchld/android_device_xiaomi_rova" remote="gh" revision="qassa" />
- <project path="device/xiaomi/msm8937-common" name="mi-msm8937/android_device_xiaomi_msm8937-common" remote="gh" revision="lineage-17.1" />
+ <project path="device/xiaomi/riva" name="thrdchld/android_device_xiaomi_riva" remote="gh" revision="qassa" />
  
  <!--Vendor -->
- <project path="vendor/xiaomi/rova" name="thrdchld/proprietary_vendor_xiaomi_rova" remote="gh" revision="10" />
- <project path="vendor/xiaomi/msm8937-common" name="mi-msm8937/proprietary_vendor_xiaomi_msm8937-common" remote="gh" revision="lineage-17.1" />
+ <project path="vendor/xiaomi/riva" name="SunnyRaj84348/android_vendor_xiaomi" remote="gh" revision="lineage-17.1" />
 
  <!--Kernel -->
- <project path="kernel/xiaomi/msm8937-4.9" name="iusmac/kernel_rova/tree/11-dev" remote="gh" revision="11-dev" />
+ <project path="kernel/xiaomi/msm8917" name="SunnyRaj84348/android_kernel_xiaomi_msm8917" remote="gh" revision="lineage-17.1" />
 
  
 </manifest>
